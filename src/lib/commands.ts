@@ -77,7 +77,8 @@ const KALI_LOGO = `
     </span>
   `;
 
-const TECH_STACK = `<a href="https://github.com/Lunixizm/github-readme-tech-stack" target="_blank"><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&width=420&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=Lunixizm&line1=C%2CC%2Cauto%3Bcpp%2Ccpp%2Cffffff%3Bgo%2Cgo%2Ce12a54%3Bmetasploit%2Cmetasploit%2Cauto%3Bnmap%2Cnmap%2Cauto%3B&line2=python%2Cpython%2Cauto%3Blinux%2Clinux%2Cauto%3Bwireshark%2Cwireshark%2Cauto%3B" alt="Tech Stack" /></a>`;
+const TECH_STACK = `<a href="https://github.com/Lunixizm/github-readme-tech-stack" target="_blank"><img src="https://github-readme-tech-stack.vercel.app/api/cards?&align=center&theme=light&borderRadius=10&fontSize=20&cardWidth=900&lineCount=3&line1=Python,Python,3776AB;Bash,Bash,121011;C,C,00599C;C++,C%2B%2B,00599C&line2=Linux,Linux,FCC624;Go,Go,00ADD8;Metasploit,Metasploit,2E7EEA&line3=Burp%20Suite,Burp%20Suite,FF5722;Docker,Docker,2496ED;Git,Git,F05032
+"</a>`;
 
 const CODE_ASCII_ART = `⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⠟⠉⠉⠻⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
