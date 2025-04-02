@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/Lunixizm/Project-001" target="_blank">Terminal Portfolio Website</a></h1>
+<h1><a href="https://github.com/Lunixizm/Project-001" target="_blank">Terminal Portfolio</a></h1>
 
 <img src="./screenshots/2024-09-30.png" alt="screenshot">
 
@@ -7,7 +7,6 @@
 ## Features
 
 - Kali Linux-like interface
-- Fun commands
 - Tab autocomplete
 - Hotkeys
 - Interactive UI
