@@ -23,12 +23,12 @@
 
 ```sh
 # 1. Clone the repo
-git clone https://github.com/Lunixizm/TerminalPortfolio
-cd TerminalPortfolio
+git clone https://github.com/Lunixizm/Terminal-Portfolio
+cd Terminal-Portfolio
 
 # 2. Install the necessary dependencies
 npm install
 
 # 3. Run the app
-npm start
+npm run dev
 ```
