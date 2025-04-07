@@ -122,7 +122,7 @@ const COMMANDS: Record<
   su: () => "",
   whoami: (username) => username,
   motd: () => MOTD,
-  pwd: () => "/",
+  pwd: () => "~",
   date: () => new Date().toLocaleDateString(),
   github: () => openLink("https://github.com/Lunixizm"),
   linkedin: () => openLink("https://linkedin.com/in/Lunixizm"),
