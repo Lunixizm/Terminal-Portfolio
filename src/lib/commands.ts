@@ -125,9 +125,9 @@ const COMMANDS: Record<
   pwd: () => "~",
   date: () => new Date().toLocaleDateString(),
   github: () => openLink("https://github.com/Lunixizm"),
-  linkedin: () => openLink("https://linkedin.com/in/Lunixizm"),
-  repo: () => openLink("https://github.com/Lunixizm/Lunixizm.github.io"),
-  email: () => openLink("mailto:lunix@lunixizm.site"),
+  linkedin: () => openLink("https://www.linkedin.com/in/utku-ceylan-883414339/"),
+  repo: () => openLink("https://github.com/Lunixizm/Terminal-Portfolio"),
+  email: () => openLink("mailto:Lunixizm@proton.me"),
   cat: () =>
     `Here's a cute cat for you! 🐱<br/><br/>${openLink("https://cataas.com/cat/cute")}`,
   kali: () => KALI_LOGO,
